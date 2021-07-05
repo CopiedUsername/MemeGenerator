@@ -1,7 +1,7 @@
 import cv2
 import tkinter
 
-
+text = "X"
 class MemeGUI:
     def __init__(self, master):
         self.master = master
